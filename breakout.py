@@ -11,7 +11,7 @@ pygame.display.set_caption('Breakout')
 
 
 
-font = pygame.font.SysFont('95759', 30)
+font = pygame.font.SysFont('Constantia', 30)
 
 bg = (234, 218, 184)
 
